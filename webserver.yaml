@@ -1,7 +1,7 @@
 ---
 -
   name: this playbook is for my web server
-  hosts: clientname
+  hosts: localhost
  
   tasks:
   -
